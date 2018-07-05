@@ -2,7 +2,7 @@
 % Auto post sky event by crawling SkyEvents' static webpage
 
 % Note: Noncommercial use only.
-        ThingSpeak friendly.
+%       ThingSpeak friendly.
 
 % Thanks to http://www.seasky.org/
 
